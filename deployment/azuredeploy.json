@@ -67,7 +67,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "uri": "https://raw.githubusercontent.com/kgreeneit/tailwindtradersdemo01/blob/main/deployment/azuredeploy-tailwind.json"
+          "uri": "https://raw.githubusercontent.com/kgreeneit/tailwindtradersdemo01/main/deployment/azuredeploy-tailwind.json"
         },
         "parameters": {
           "servicePrincipalId": {
@@ -86,7 +86,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "uri": "https://raw.githubusercontent.com/kgreeneit/tailwindtradersdemo01/blob/main/deployment/azuredeploy-azd.json"
+          "uri": "https://raw.githubusercontent.com/kgreeneit/tailwindtradersdemo01/main/deployment/azuredeploy-azd.json"
         },
         "parameters": {
           "azureDevOpsOrgName": {
@@ -108,7 +108,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "uri": "https://raw.githubusercontent.com/kgreeneit/tailwindtradersdemo01/blob/main/deployment/azuredeploy-logic-apps.json"
+          "uri": "https://raw.githubusercontent.com/kgreeneit/tailwindtradersdemo01/main/deployment/azuredeploy-logic-apps.json"
         },
         "parameters": {
           "azureDevOpsOrgName": {
@@ -136,7 +136,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "uri": "https://raw.githubusercontent.com/kgreeneit/tailwindtradersdemo01/blob/main/deployment/azuredeploy-status.json"
+          "uri": "https://raw.githubusercontent.com/kgreeneit/tailwindtradersdemo01/main/deployment/azuredeploy-status.json"
         },
         "parameters": {
           "siteName": {
